@@ -1,0 +1,112 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+ width: 100%;
+   height: 100%;
+}
+div{
+   width: 100%;
+   height: 100%;
+   
+}
+div#general{
+	width: 75%;
+    height: 800px; 
+	border-radius: 50px;
+	background-color: #FFB566;
+    margin: auto;
+    margin-top: 35px;
+	box-shadow: 10px 5px 0 0 #DAC5AF,-10px -5px 0 0 #FAE5CE ;
+    
+    
+}
+menu{
+    width: 50%;
+    height: 100px; 
+	border-radius: 50px;
+	background-color: #FFB566;
+    margin-left: auto;
+    margin-top: 35px;
+	box-shadow: 10px 5px 0 0 #DAC5AF,-10px -5px 0 0 #FAE5CE ;
+    
+}
+
+@media screen and (max-width: 1300px){
+  
+    iframe{
+        height:600px;
+        width: 70%;
+    }
+    div#general{
+        height: 1420px;
+        width: 90%;
+    }
+}
+@media screen and (max-width: 1200px){
+  
+    iframe{
+        height:700px;
+        width: 90%;
+    }
+    div#general{
+        height: 1420px;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:75%){
+  
+    iframe{
+        height:460px;
+    }
+    div#general{
+        height: 1420px;
+    }
+}
+
+
+@media screen and (max-width: 1000px){
+  
+    iframe{
+        height:600px;
+    }
+    div#general{
+        height: 1420px;
+    }
+}
+
+
+@media screen and (max-width: 900px){
+  
+    iframe{
+        height:500px;
+    }
+    div#general{
+        height: 1420px;
+    }
+}
+
+
+@media screen and (max-width: 800px){
+  
+    iframe{
+        height:500px;
+        width: 95%;
+    }
+    div#general{
+        height: 1420px;
+    }
+}
+
+@media screen and (max-width: 600px){
+  
+    iframe{
+        height:400px;
+        width: 95%;
+    }
+    div#general{
+        height: 1420px;
+    }
+}
