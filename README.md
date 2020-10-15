@@ -1,3 +1,3 @@
-# testing
+# Mi proyecto
 
-este es una pagina web
+Esta es una pagina web con fines educativos
