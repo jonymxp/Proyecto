@@ -1,0 +1,23 @@
+.btn-sprite { background: url('btn-sprite.html') no-repeat top left; width: 320px; height: 79px;  }
+.btn-sprite.btn-videocuentos { background-position: 0 0; }
+.btn-sprite.btn-Atencion { background-position: 0 -89px; }
+.btn-sprite.btn-Audicion { background-position: 0 -178px; }
+.btn-sprite.btn-audiocuentos { background-position: 0 -267px; }
+.btn-sprite.btn-clasicos { background-position: 0 -356px; }
+.btn-sprite.btn-Colorear { background-position: 0 -445px; }
+.btn-sprite.btn-Conceptos { background-position: 0 -534px; }
+.btn-sprite.btn-fabulas { background-position: 0 -623px; }
+.btn-sprite.btn-fantasticos { background-position: 0 -712px; }
+.btn-sprite.btn-Fichas-Infantil { background-position: 0 -801px; }
+.btn-sprite.btn-hadas { background-position: 0 -890px; }
+.btn-sprite.btn-interactivos { background-position: 0 -979px; }
+.btn-sprite.btn-inventados { background-position: 0 -1068px; }
+.btn-sprite.btn-largos { background-position: 0 -1157px; }
+.btn-sprite.btn-leer { background-position: 0 -1246px; }
+.btn-sprite.btn-Lenguaje { background-position: 0 -1335px; }
+.btn-sprite.btn-leyendas { background-position: 0 -1424px; }
+.btn-sprite.btn-Logica { background-position: 0 -1513px; }
+.btn-sprite.btn-Memoria { background-position: 0 -1602px; }
+.btn-sprite.btn-mundo { background-position: 0 -1691px; }
+.btn-sprite.btn-terror { background-position: 0 -1780px; }
+.btn-sprite.btn-valores { background-position: 0 -1869px; }

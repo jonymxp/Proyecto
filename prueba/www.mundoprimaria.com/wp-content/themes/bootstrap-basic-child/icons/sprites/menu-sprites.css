@@ -1,0 +1,76 @@
+.menu-sprite.img-responsive { background: url('menu-sprite.png') no-repeat top left; width: 260px; height: 35px; display: block; margin:auto; }
+.menu-sprite.img-responsive.btn-Ingles { background-position: 0 0; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Lengua { background-position: 0 -89px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Mates { background-position: 0 -178px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Pedagogia { background-position: 0 -267px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Pinterest { background-position: 0 -356px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Recursos { background-position: 0 -445px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Twitter { background-position: 0 -534px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Vestir { background-position: 0 -623px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Videos { background-position: 0 -712px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Youtube { background-position: 0 -801px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.canciones { background-position: 0 -890px; }
+.menu-sprite.img-responsive.chistes { background-position: 0 -935px; }
+.menu-sprite.img-responsive.ciencias { background-position: 0 -980px; }
+.menu-sprite.img-responsive.clasicos { background-position: 0 -1025px; }
+.menu-sprite.img-responsive.cocinar { background-position: 0 -1070px; }
+.menu-sprite.img-responsive.conceptos { background-position: 0 -1115px; }
+.menu-sprite.img-responsive.cuaderno-de-verano-para-ninos { background-position: 0 -1160px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuadernos-de-repaso-para-vacaciones { background-position: 0 -1320px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuadernos-de-vacaciones-para-imprimir { background-position: 0 -1480px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuadernos-de-verano-para-imprimir { background-position: 0 -1640px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuadernos-de-verano-para-imprimir-gratis { background-position: 0 -1800px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuaderno-vacaciones-verano { background-position: 0 -1960px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.cuentos { background-position: 0 -2120px; }
+.menu-sprite.img-responsive.deberes-para-el-verano { background-position: 0 -2165px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.dibus { background-position: 0 -2325px; }
+.menu-sprite.img-responsive.especiales { background-position: 0 -2370px; }
+.menu-sprite.img-responsive.fabulas { background-position: 0 -2415px; }
+.menu-sprite.img-responsive.fantasticos { background-position: 0 -2460px; }
+.menu-sprite.img-responsive.finfantil { background-position: 0 -2505px; }
+.menu-sprite.img-responsive.fprimaria { background-position: 0 -2550px; }
+.menu-sprite.img-responsive.futbol { background-position: 0 -2595px; }
+.menu-sprite.img-responsive.hadas { background-position: 0 -2640px; }
+.menu-sprite.img-responsive.infos { background-position: 0 -2685px; }
+.menu-sprite.img-responsive.ingles { background-position: 0 -2730px; }
+.menu-sprite.img-responsive.interactivos { background-position: 0 -2775px; }
+.menu-sprite.img-responsive.inventados { background-position: 0 -2820px; }
+.menu-sprite.img-responsive.largos { background-position: 0 -2865px; }
+.menu-sprite.img-responsive.lectura { background-position: 0 -2910px; }
+.menu-sprite.img-responsive.lengua { background-position: 0 -2955px; }
+.menu-sprite.img-responsive.lenguaje { background-position: 0 -3000px; }
+.menu-sprite.img-responsive.libro-de-vacaciones-primero-primaria { background-position: 0 -3045px; width: 650px; height: 150px; }
+.menu-sprite.img-responsive.logica { background-position: 0 -3205px; }
+.menu-sprite.img-responsive.mates { background-position: 0 -3250px; }
+.menu-sprite.img-responsive.memoria { background-position: 0 -3295px; }
+.menu-sprite.img-responsive.mitos { background-position: 0 -3340px; }
+.menu-sprite.img-responsive.mundo { background-position: 0 -3385px; }
+.menu-sprite.img-responsive.pedagogia { background-position: 0 -3430px; }
+.menu-sprite.img-responsive.preguntas { background-position: 0 -3475px; }
+.menu-sprite.img-responsive.recursos { background-position: 0 -3520px; }
+.menu-sprite.img-responsive.tablas { background-position: 0 -3565px; }
+.menu-sprite.img-responsive.terror { background-position: 0 -3610px; }
+.menu-sprite.img-responsive.valores { background-position: 0 -3655px; }
+.menu-sprite.img-responsive.vestir { background-position: 0 -3700px; }
+.menu-sprite.img-responsive.videocuentos { background-position: 0 -3745px; }
+.menu-sprite.img-responsive.videos { background-position: 0 -3790px; }
+.menu-sprite.img-responsive.adivinanzas { background-position: 0 -3835px; }
+.menu-sprite.img-responsive.animales { background-position: 0 -3880px; }
+.menu-sprite.img-responsive.arte { background-position: 0 -3925px; }
+.menu-sprite.img-responsive.atencion { background-position: 0 -3970px; }
+.menu-sprite.img-responsive.audicion { background-position: 0 -4015px; }
+.menu-sprite.img-responsive.audiocuentos { background-position: 0 -4060px; }
+.menu-sprite.img-responsive.Banner-LC-468x60 { background-position: 0 -4105px; width: 468px; height: 60px; }
+.menu-sprite.img-responsive.btn-Animales { background-position: 0 -4175px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Arte { background-position: 0 -4264px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Cocinar { background-position: 0 -4353px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Comprension { background-position: 0 -4442px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Cono { background-position: 0 -4531px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Cuentos { background-position: 0 -4620px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Examinador { background-position: 0 -4709px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-EyA { background-position: 0 -4798px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Facebook { background-position: 0 -4887px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Fichas { background-position: 0 -4976px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Futbol { background-position: 0 -5065px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Google- { background-position: 0 -5154px; width: 320px; height: 79px; }
+.menu-sprite.img-responsive.btn-Infografias { background-position: 0 -5243px; width: 320px; height: 79px; }

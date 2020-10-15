@@ -1,0 +1,299 @@
+.ic-images { background: url('ic-images.png') no-repeat top left; width: 90px; height: 90px; display: block; margin:auto;  }
+.ic-images.ic-vaca-lechera { background-position: 0 0; width: 70px; height: 70px; }
+.ic-images.ic-Valentia { background-position: 0 -80px; width: 155px; height: 155px; }
+.ic-images.ic-valentin { background-position: 0 -245px; }
+.ic-images.ic-Valores { background-position: 0 -345px; width: 155px; height: 155px; }
+.ic-images.ic-Verano { background-position: 0 -510px; width: 70px; height: 70px; }
+.ic-images.ic-verdura { background-position: 0 -590px; }
+.ic-images.ic-ver-hor { background-position: 0 -690px; }
+.ic-images.ic-vertical { background-position: 0 -790px; }
+.ic-images.ic-vestir { background-position: 0 -890px; width: 70px; height: 70px; }
+.ic-images.ic-Videocuento { background-position: 0 -970px; width: 71px; height: 71px; }
+.ic-images.ic-Videocuentos { background-position: 0 -1051px; width: 155px; height: 155px; }
+.ic-images.ic-V-may { background-position: 0 -1216px; }
+.ic-images.ic-v-min { background-position: 0 -1316px; }
+.ic-images.ic-voc { background-position: 0 -1416px; }
+.ic-images.ic-Vocabulario { background-position: 0 -1516px; width: 70px; height: 71px; }
+.ic-images.ic-Vocabulary { background-position: 0 -1597px; width: 70px; height: 71px; }
+.ic-images.ic-VOC-may { background-position: 0 -1678px; }
+.ic-images.ic-W-may { background-position: 0 -1778px; }
+.ic-images.ic-w-min { background-position: 0 -1878px; }
+.ic-images.ic-WXYZ-may { background-position: 0 -1978px; }
+.ic-images.ic-wxyz-min { background-position: 0 -2078px; }
+.ic-images.ic-X-may { background-position: 0 -2178px; }
+.ic-images.ic-x-min { background-position: 0 -2278px; }
+.ic-images.ic-Y-may { background-position: 0 -2378px; }
+.ic-images.ic-y-min { background-position: 0 -2478px; }
+.ic-images.ic-zapatilla { background-position: 0 -2578px; width: 70px; height: 70px; }
+.ic-images.ic-zigzag { background-position: 0 -2658px; }
+.ic-images.ic-Z-may { background-position: 0 -2758px; }
+.ic-images.ic-z-min { background-position: 0 -2858px; }
+.ic-images.ic-comida { background-position: 0 -2958px; }
+.ic-images.ic-Comunicacion { background-position: 0 -3058px; width: 70px; height: 71px; }
+.ic-images.ic-Conceptos-mmi { background-position: 0 -3139px; }
+.ic-images.ic-Confianza { background-position: 0 -3239px; width: 155px; height: 155px; }
+.ic-images.ic-Cono { background-position: 0 -3404px; width: 69px; height: 70px; }
+.ic-images.ic-Cono_ { background-position: 0 -3484px; width: 70px; height: 71px; }
+.ic-images.ic-corazones { background-position: 0 -3565px; }
+.ic-images.ic-corro { background-position: 0 -3665px; width: 70px; height: 70px; }
+.ic-images.ic-criaturas { background-position: 0 -3745px; }
+.ic-images.ic-cruz { background-position: 0 -3845px; }
+.ic-images.ic-cuarto { background-position: 0 -3945px; }
+.ic-images.ic-cucu { background-position: 0 -4045px; width: 70px; height: 70px; }
+.ic-images.ic-Cuentos { background-position: 0 -4125px; width: 70px; height: 71px; }
+.ic-images.ic-cuerpo { background-position: 0 -4206px; }
+.ic-images.ic-cultura { background-position: 0 -4306px; }
+.ic-images.ic-cumple { background-position: 0 -4406px; }
+.ic-images.ic-delfines { background-position: 0 -4506px; }
+.ic-images.ic-deportes { background-position: 0 -4606px; }
+.ic-images.ic-Dibujos { background-position: 0 -4706px; }
+.ic-images.ic-dino { background-position: 0 -4806px; }
+.ic-images.ic-D-may { background-position: 0 -4906px; }
+.ic-images.ic-d-min { background-position: 0 -5006px; }
+.ic-images.ic-domesticos { background-position: 0 -5106px; }
+.ic-images.ic-don-gato { background-position: 0 -5206px; width: 70px; height: 70px; }
+.ic-images.ic-Dormir { background-position: 0 -5286px; width: 155px; height: 155px; }
+.ic-images.ic-dragones { background-position: 0 -5451px; }
+.ic-images.ic-duendes { background-position: 0 -5551px; }
+.ic-images.ic-dulces { background-position: 0 -5651px; }
+.ic-images.ic-elefante { background-position: 0 -5751px; width: 70px; height: 70px; }
+.ic-images.ic-E-may { background-position: 0 -5831px; }
+.ic-images.ic-e-min { background-position: 0 -5931px; }
+.ic-images.ic-Empatia { background-position: 0 -6031px; width: 155px; height: 155px; }
+.ic-images.ic-ENIE-may { background-position: 0 -6196px; }
+.ic-images.ic-enie-min { background-position: 0 -6296px; }
+.ic-images.ic-Entorno { background-position: 0 -6396px; width: 71px; height: 71px; }
+.ic-images.ic-espiral { background-position: 0 -6477px; }
+.ic-images.ic-estaciones { background-position: 0 -6577px; }
+.ic-images.ic-estrellas { background-position: 0 -6677px; }
+.ic-images.ic-Examinador { background-position: 0 -6777px; width: 71px; height: 71px; }
+.ic-images.ic-EyA { background-position: 0 -6858px; width: 70px; height: 71px; }
+.ic-images.ic-Fabulas { background-position: 0 -6939px; width: 155px; height: 155px; }
+.ic-images.ic-familia { background-position: 0 -7104px; }
+.ic-images.ic-Fantasticos { background-position: 0 -7204px; width: 155px; height: 155px; }
+.ic-images.ic-festones { background-position: 0 -7369px; }
+.ic-images.ic-Fichas { background-position: 0 -7469px; width: 70px; height: 71px; }
+.ic-images.ic-Fichas-mmi { background-position: 0 -7550px; }
+.ic-images.ic-fichas-multiplicar { background-position: 0 -7650px; width: 250px; height: 140px; }
+.ic-images.ic-fiestas { background-position: 0 -7800px; }
+.ic-images.ic-flores { background-position: 0 -7900px; }
+.ic-images.ic-F-may { background-position: 0 -8000px; }
+.ic-images.ic-f-min { background-position: 0 -8100px; }
+.ic-images.ic-fruta { background-position: 0 -8200px; }
+.ic-images.ic-futbol { background-position: 0 -8300px; }
+.ic-images.ic-gallo { background-position: 0 -8400px; width: 70px; height: 70px; }
+.ic-images.ic-gatos { background-position: 0 -8480px; }
+.ic-images.ic-Geometria { background-position: 0 -8580px; width: 70px; height: 70px; }
+.ic-images.ic-gigante { background-position: 0 -8660px; width: 70px; height: 70px; }
+.ic-images.ic-G-may { background-position: 0 -8740px; }
+.ic-images.ic-g-min { background-position: 0 -8840px; }
+.ic-images.ic-Gramatica { background-position: 0 -8940px; width: 70px; height: 71px; }
+.ic-images.ic-Grammar { background-position: 0 -9021px; width: 70px; height: 71px; }
+.ic-images.ic-granja { background-position: 0 -9102px; }
+.ic-images.ic-hadas { background-position: 0 -9202px; }
+.ic-images.ic-halloween { background-position: 0 -9302px; }
+.ic-images.ic-Historia { background-position: 0 -9402px; width: 70px; height: 71px; }
+.ic-images.ic-H-may { background-position: 0 -9483px; }
+.ic-images.ic-h-min { background-position: 0 -9583px; }
+.ic-images.ic-Humildad { background-position: 0 -9683px; width: 155px; height: 155px; }
+.ic-images.ic-husky { background-position: 0 -9848px; width: 70px; height: 70px; }
+.ic-images.ic-identif { background-position: 0 -9928px; width: 247px; height: 139px; }
+.ic-images.ic-Igualdad { background-position: 0 -10077px; width: 155px; height: 155px; }
+.ic-images.ic-I-may { background-position: 0 -10242px; }
+.ic-images.ic-i-min { background-position: 0 -10342px; }
+.ic-images.ic-Infografias { background-position: 0 -10442px; width: 70px; height: 71px; }
+.ic-images.ic-Ingles { background-position: 0 -10523px; width: 70px; height: 70px; }
+.ic-images.ic-insectos { background-position: 0 -10603px; }
+.ic-images.ic-Interactivos { background-position: 0 -10703px; width: 155px; height: 155px; }
+.ic-images.ic-interactivos-peq { background-position: 0 -10868px; width: 75px; height: 75px; }
+.ic-images.ic-Inventados { background-position: 0 -10953px; width: 155px; height: 155px; }
+.ic-images.ic-J-may { background-position: 0 -11118px; }
+.ic-images.ic-j-min { background-position: 0 -11218px; }
+.ic-images.ic-juegos { background-position: 0 -11318px; }
+.ic-images.ic-juegos-animales { background-position: 0 -11418px; width: 70px; height: 70px; }
+.ic-images.ic-juegos-de-futbol { background-position: 0 -11498px; width: 70px; height: 70px; }
+.ic-images.ic-juegos-vestir { background-position: 0 -11578px; width: 100px; height: 100px; }
+.ic-images.ic-kanuto { background-position: 0 -11688px; width: 70px; height: 70px; }
+.ic-images.ic-K-may { background-position: 0 -11768px; }
+.ic-images.ic-k-min { background-position: 0 -11868px; }
+.ic-images.ic-lacteos { background-position: 0 -11968px; }
+.ic-images.ic-Largos { background-position: 0 -12068px; width: 155px; height: 155px; }
+.ic-images.ic-Lectoescritura { background-position: 0 -12233px; }
+.ic-images.ic-Lectora { background-position: 0 -12333px; width: 71px; height: 71px; }
+.ic-images.ic-Leer { background-position: 0 -12414px; width: 155px; height: 155px; }
+.ic-images.ic-Lengua { background-position: 0 -12579px; width: 70px; height: 70px; }
+.ic-images.ic-Lenguaje-mmi { background-position: 0 -12659px; }
+.ic-images.ic-letras-cole { background-position: 0 -12759px; }
+.ic-images.ic-Leyendas { background-position: 0 -12859px; width: 155px; height: 155px; }
+.ic-images.ic-llaves { background-position: 0 -13024px; width: 70px; height: 70px; }
+.ic-images.ic-LL-may { background-position: 0 -13104px; }
+.ic-images.ic-ll-min { background-position: 0 -13204px; }
+.ic-images.ic-L-may { background-position: 0 -13304px; }
+.ic-images.ic-l-min { background-position: 0 -13404px; }
+.ic-images.ic-lobito { background-position: 0 -13504px; width: 70px; height: 70px; }
+.ic-images.ic-Logica { background-position: 0 -13584px; width: 70px; height: 71px; }
+.ic-images.ic-Logica-mmi { background-position: 0 -13665px; }
+.ic-images.ic-M { background-position: 0 -13765px; width: 71px; height: 71px; }
+.ic-images.ic-madre { background-position: 0 -13846px; }
+.ic-images.ic-magos { background-position: 0 -13946px; }
+.ic-images.ic-maite-zaitut { background-position: 0 -14046px; width: 70px; height: 70px; }
+.ic-images.ic-mambru { background-position: 0 -14126px; width: 70px; height: 70px; }
+.ic-images.ic-mandalas { background-position: 0 -14206px; }
+.ic-images.ic-manga { background-position: 0 -14306px; }
+.ic-images.ic-marcas { background-position: 0 -14406px; }
+.ic-images.ic-marcianos { background-position: 0 -14506px; }
+.ic-images.ic-mareta { background-position: 0 -14606px; width: 70px; height: 70px; }
+.ic-images.ic-marineiro { background-position: 0 -14686px; width: 70px; height: 70px; }
+.ic-images.ic-marinos { background-position: 0 -14766px; }
+.ic-images.ic-mariposas { background-position: 0 -14866px; }
+.ic-images.ic-Materia { background-position: 0 -14966px; width: 70px; height: 71px; }
+.ic-images.ic-material { background-position: 0 -15047px; }
+.ic-images.ic-Mates { background-position: 0 -15147px; width: 69px; height: 70px; }
+.ic-images.ic-Mates_ { background-position: 0 -15227px; width: 70px; height: 71px; }
+.ic-images.ic-Medidas { background-position: 0 -15308px; width: 70px; height: 70px; }
+.ic-images.ic-Memoria { background-position: 0 -15388px; width: 70px; height: 71px; }
+.ic-images.ic-Memoria-mmi { background-position: 0 -15469px; }
+.ic-images.ic-M-may { background-position: 0 -15569px; }
+.ic-images.ic-m-min { background-position: 0 -15669px; }
+.ic-images.ic-moda { background-position: 0 -15769px; }
+.ic-images.ic-monstruos { background-position: 0 -15869px; }
+.ic-images.ic-monstruos-tablas { background-position: 0 -15969px; width: 250px; height: 140px; }
+.ic-images.ic-monum { background-position: 0 -16119px; width: 247px; height: 139px; }
+.ic-images.ic-Multiplicar { background-position: 0 -16268px; width: 71px; height: 71px; }
+.ic-images.ic-Mundo { background-position: 0 -16349px; width: 155px; height: 155px; }
+.ic-images.ic-muneca-azul { background-position: 0 -16514px; width: 70px; height: 70px; }
+.ic-images.ic-musica-tablas { background-position: 0 -16594px; width: 250px; height: 140px; }
+.ic-images.ic-Naturales { background-position: 0 -16744px; width: 70px; height: 71px; }
+.ic-images.ic-Navidad { background-position: 0 -16825px; width: 71px; height: 71px; }
+.ic-images.ic-Navidad2 { background-position: 0 -16906px; width: 155px; height: 155px; }
+.ic-images.ic-navidad-tablas { background-position: 0 -17071px; width: 250px; height: 140px; }
+.ic-images.ic-ninos-ninas { background-position: 0 -17221px; width: 130px; }
+.ic-images.ic-N-may { background-position: 0 -17321px; }
+.ic-images.ic-n-min { background-position: 0 -17421px; }
+.ic-images.ic-Numeros { background-position: 0 -17521px; width: 70px; height: 70px; }
+.ic-images.ic-numeros-cole { background-position: 0 -17601px; }
+.ic-images.ic-nw-dibujos { background-position: 0 -17701px; width: 100px; height: 100px; }
+.ic-images.ic-nw-halloween { background-position: 0 -17811px; width: 100px; height: 100px; }
+.ic-images.ic-nw-horarios { background-position: 0 -17921px; width: 100px; height: 100px; }
+.ic-images.ic-nw-recursos { background-position: 0 -18031px; width: 100px; height: 100px; }
+.ic-images.ic-oficios-tablas { background-position: 0 -18141px; width: 250px; height: 140px; }
+.ic-images.ic-O-may { background-position: 0 -18291px; }
+.ic-images.ic-o-min { background-position: 0 -18391px; }
+.ic-images.ic-ondas { background-position: 0 -18491px; }
+.ic-images.ic-Ortografia { background-position: 0 -18591px; width: 70px; height: 71px; }
+.ic-images.ic-padre { background-position: 0 -18672px; }
+.ic-images.ic-papas-mamas { background-position: 0 -18772px; width: 130px; }
+.ic-images.ic-patio { background-position: 0 -18872px; width: 70px; height: 70px; }
+.ic-images.ic-paxarino { background-position: 0 -18952px; width: 70px; height: 70px; }
+.ic-images.ic-paz { background-position: 0 -19032px; }
+.ic-images.ic-Pedagogia { background-position: 0 -19132px; width: 70px; height: 71px; }
+.ic-images.ic-peixino { background-position: 0 -19213px; width: 70px; height: 70px; }
+.ic-images.ic-Percepcion-mmi { background-position: 0 -19293px; }
+.ic-images.ic-Perdon { background-position: 0 -19393px; width: 155px; height: 155px; }
+.ic-images.ic-perros { background-position: 0 -19558px; }
+.ic-images.ic-pescado { background-position: 0 -19658px; }
+.ic-images.ic-pincel { background-position: 0 -19758px; width: 70px; height: 70px; }
+.ic-images.ic-pinpon { background-position: 0 -19838px; width: 70px; height: 70px; }
+.ic-images.ic-piratas { background-position: 0 -19918px; }
+.ic-images.ic-piruleta { background-position: 0 -20018px; width: 70px; height: 70px; }
+.ic-images.ic-planetas { background-position: 0 -20098px; }
+.ic-images.ic-plantas { background-position: 0 -20198px; }
+.ic-images.ic-P-may { background-position: 0 -20298px; }
+.ic-images.ic-p-min { background-position: 0 -20398px; }
+.ic-images.ic-pollitos { background-position: 0 -20498px; width: 70px; height: 70px; }
+.ic-images.ic-preguntas-Mates { background-position: 0 -20578px; width: 210px; height: 204px; }
+.ic-images.ic-primero { background-position: 0 -20792px; }
+.ic-images.ic-princesas { background-position: 0 -20892px; }
+.ic-images.ic-profesiones { background-position: 0 -20992px; }
+.ic-images.ic-provand { background-position: 0 -21092px; width: 247px; height: 139px; }
+.ic-images.ic-provara { background-position: 0 -21241px; width: 247px; height: 139px; }
+.ic-images.ic-provast { background-position: 0 -21390px; width: 247px; height: 139px; }
+.ic-images.ic-provbal { background-position: 0 -21539px; width: 247px; height: 139px; }
+.ic-images.ic-provcan { background-position: 0 -21688px; width: 247px; height: 139px; }
+.ic-images.ic-provcant { background-position: 0 -21837px; width: 247px; height: 139px; }
+.ic-images.ic-provcat { background-position: 0 -21986px; width: 247px; height: 139px; }
+.ic-images.ic-proveus { background-position: 0 -22135px; width: 247px; height: 139px; }
+.ic-images.ic-provext { background-position: 0 -22284px; width: 247px; height: 139px; }
+.ic-images.ic-provgal { background-position: 0 -22433px; width: 247px; height: 139px; }
+.ic-images.ic-provleo { background-position: 0 -22582px; width: 247px; height: 139px; }
+.ic-images.ic-provmad { background-position: 0 -22731px; width: 247px; height: 139px; }
+.ic-images.ic-provman { background-position: 0 -22880px; width: 247px; height: 139px; }
+.ic-images.ic-provmur { background-position: 0 -23029px; width: 247px; height: 139px; }
+.ic-images.ic-provnav { background-position: 0 -23178px; width: 247px; height: 139px; }
+.ic-images.ic-provval { background-position: 0 -23327px; width: 247px; height: 139px; }
+.ic-images.ic-prueba { background-position: 0 -23476px; }
+.ic-images.ic-Q-may { background-position: 0 -23576px; }
+.ic-images.ic-q-min { background-position: 0 -23676px; }
+.ic-images.ic-que-llueva { background-position: 0 -23776px; width: 70px; height: 70px; }
+.ic-images.ic-quinto { background-position: 0 -23856px; }
+.ic-images.ic-rana { background-position: 0 -23956px; width: 70px; height: 70px; }
+.ic-images.ic-raton { background-position: 0 -24036px; width: 70px; height: 70px; }
+.ic-images.ic-raton-vaquero { background-position: 0 -24116px; width: 70px; height: 70px; }
+.ic-images.ic-Reading { background-position: 0 -24196px; width: 70px; height: 71px; }
+.ic-images.ic-Recursos { background-position: 0 -24277px; width: 70px; height: 71px; }
+.ic-images.ic-repaso-1 { background-position: 0 -24358px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-2 { background-position: 0 -24508px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-3 { background-position: 0 -24658px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-4 { background-position: 0 -24808px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-5 { background-position: 0 -24958px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-6 { background-position: 0 -25108px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-7 { background-position: 0 -25258px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-8 { background-position: 0 -25408px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-9 { background-position: 0 -25558px; width: 250px; height: 140px; }
+.ic-images.ic-repaso-10 { background-position: 0 -25708px; width: 250px; height: 140px; }
+.ic-images.ic-rep-letra { background-position: 0 -25858px; }
+.ic-images.ic-rep-num { background-position: 0 -25958px; }
+.ic-images.ic-Resolucion { background-position: 0 -26058px; width: 70px; height: 70px; }
+.ic-images.ic-Respeto { background-position: 0 -26138px; width: 155px; height: 155px; }
+.ic-images.ic-Responsabilidad { background-position: 0 -26303px; width: 155px; height: 155px; }
+.ic-images.ic-R-may { background-position: 0 -26468px; }
+.ic-images.ic-r-min { background-position: 0 -26568px; }
+.ic-images.ic-rosas { background-position: 0 -26668px; }
+.ic-images.ic-RR-may { background-position: 0 -26768px; }
+.ic-images.ic-rr-min { background-position: 0 -26868px; }
+.ic-images.ic-Sabiduria { background-position: 0 -26968px; width: 155px; height: 155px; }
+.ic-images.ic-Salud { background-position: 0 -27133px; width: 70px; height: 71px; }
+.ic-images.ic-segundo { background-position: 0 -27214px; }
+.ic-images.ic-selva { background-position: 0 -27314px; }
+.ic-images.ic-semicirculo { background-position: 0 -27414px; }
+.ic-images.ic-Seres { background-position: 0 -27514px; width: 70px; height: 71px; }
+.ic-images.ic-sexto { background-position: 0 -27595px; }
+.ic-images.ic-Sinceridad { background-position: 0 -27695px; width: 155px; height: 155px; }
+.ic-images.ic-sirenas { background-position: 0 -27860px; }
+.ic-images.ic-S-may { background-position: 0 -27960px; }
+.ic-images.ic-s-min { background-position: 0 -28060px; }
+.ic-images.ic-Sociales { background-position: 0 -28160px; width: 70px; height: 71px; }
+.ic-images.ic-Sociedad { background-position: 0 -28241px; width: 71px; height: 71px; }
+.ic-images.ic-sol { background-position: 0 -28322px; width: 70px; height: 70px; }
+.ic-images.ic-Solidaridad { background-position: 0 -28402px; width: 155px; height: 155px; }
+.ic-images.ic-Spelling { background-position: 0 -28567px; width: 70px; height: 71px; }
+.ic-images.ic-sumas { background-position: 0 -28648px; }
+.ic-images.ic-t-circular { background-position: 0 -28748px; }
+.ic-images.ic-t-combinaciones { background-position: 0 -28848px; }
+.ic-images.ic-t-curvo { background-position: 0 -28948px; }
+.ic-images.ic-tengo { background-position: 0 -29048px; width: 70px; height: 70px; }
+.ic-images.ic-tenis { background-position: 0 -29128px; }
+.ic-images.ic-tercero { background-position: 0 -29228px; }
+.ic-images.ic-Terror { background-position: 0 -29328px; width: 155px; height: 155px; }
+.ic-images.ic-t-horizontal { background-position: 0 -29493px; }
+.ic-images.ic-tigre { background-position: 0 -29593px; width: 70px; height: 70px; }
+.ic-images.ic-T-may { background-position: 0 -29673px; }
+.ic-images.ic-t-min { background-position: 0 -29773px; }
+.ic-images.ic-t-oblicuo { background-position: 0 -29873px; }
+.ic-images.ic-transporte { background-position: 0 -29973px; }
+.ic-images.ic-t-recto { background-position: 0 -30073px; }
+.ic-images.ic-trenes { background-position: 0 -30173px; }
+.ic-images.ic-trucos-tablas { background-position: 0 -30273px; width: 250px; height: 140px; }
+.ic-images.ic-t-semi { background-position: 0 -30423px; }
+.ic-images.ic-t-vertical { background-position: 0 -30523px; }
+.ic-images.ic-U-may { background-position: 0 -30623px; }
+.ic-images.ic-u-min { background-position: 0 -30723px; }
+.ic-images.ic-universo { background-position: 0 -30823px; }
+.ic-images.ic_Mayusculas { background-position: 0 -30923px; }
+.ic-images.ic_Minusculas { background-position: 0 -31023px; }
+.ic-images.ic_Trazos { background-position: 0 -31123px; }
+.ic-images.ic_Contar { background-position: 0 -31223px; }
+.ic-images.ic_Grafomotricidad { background-position: 0 -31323px; }
+.ic-images.ic_Grafonumeros { background-position: 0 -31423px; }
+.ic-images.ic_Lectoescritura { background-position: 0 -31523px; }
+.ic-images.ic_Letras { background-position: 0 -31623px; }

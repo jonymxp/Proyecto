@@ -1,0 +1,7 @@
+.rss { background: url('rss.png') no-repeat top left; width: 28px;
+    display: block; height: 28px; margin: 2px auto !important; }
+.rss.icono-google { background-position: 0 0px; }
+.rss.icono-pinterest { background-position: 0 -37px; }
+.rss.icono-twitter { background-position: 0 -74px; }
+.rss.icono-youtube { background-position: 0 -110px; }
+.rss.icono-facebook { background-position: 0 -148px; }

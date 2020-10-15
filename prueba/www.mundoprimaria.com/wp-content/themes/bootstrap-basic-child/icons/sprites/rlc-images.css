@@ -1,0 +1,30 @@
+.rlc-images { background: url('rlc-images.png') no-repeat top left; width: 161px; height: 92px; display: block; margin:auto; }
+.rlc-images.rlc-Geometria { background-position: 0 0; }
+.rlc-images.rlc-Gramatica { background-position: 0 -102px; }
+.rlc-images.rlc-Grammar { background-position: 0 -204px; }
+.rlc-images.rlc-Historia { background-position: 0 -306px; }
+.rlc-images.rlc-Lectora { background-position: 0 -408px; }
+.rlc-images.rlc-Lenguaje-mmi { background-position: 0 -510px; }
+.rlc-images.rlc-Logica { background-position: 0 -612px; }
+.rlc-images.rlc-Logica-mmi { background-position: 0 -714px; }
+.rlc-images.rlc-Materia { background-position: 0 -816px; }
+.rlc-images.rlc-Medidas { background-position: 0 -918px; }
+.rlc-images.rlc-Memoria { background-position: 0 -1020px; }
+.rlc-images.rlc-Memoria-mmi { background-position: 0 -1122px; }
+.rlc-images.rlc-Numeros { background-position: 0 -1224px; }
+.rlc-images.rlc-Ortografia { background-position: 0 -1326px; }
+.rlc-images.rlc-Reading { background-position: 0 -1428px; }
+.rlc-images.rlc-Resolucion { background-position: 0 -1530px; }
+.rlc-images.rlc-Salud { background-position: 0 -1632px; }
+.rlc-images.rlc-Seres { background-position: 0 -1734px; }
+.rlc-images.rlc-Sociedad { background-position: 0 -1836px; }
+.rlc-images.rlc-Spelling { background-position: 0 -1938px; }
+.rlc-images.rlc-Vocabulario { background-position: 0 -2040px; }
+.rlc-images.rlc-Vocabulary { background-position: 0 -2142px; }
+.rlc-images.search { background-position: 0 -2244px; width: 35px; height: 50px; }
+.rlc-images.rlc-Atencion { background-position: 0 -2304px; }
+.rlc-images.rlc-Atencion-mmi { background-position: 0 -2406px; }
+.rlc-images.rlc-Audicion-mmi { background-position: 0 -2508px; }
+.rlc-images.rlc-Comunicacion { background-position: 0 -2610px; }
+.rlc-images.rlc-Conceptos-mmi { background-position: 0 -2712px; }
+.rlc-images.rlc-Entorno { background-position: 0 -2814px; }
