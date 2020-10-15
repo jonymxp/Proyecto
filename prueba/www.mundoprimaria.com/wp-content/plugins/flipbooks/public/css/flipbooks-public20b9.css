@@ -1,0 +1,107 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.mb30{
+    margin-bottom: 30px;
+}
+#flipbook-loader-indicator {
+    text-align: center;
+    margin: 40px 0;
+        
+}
+#flipbook-loader-indicator img{
+    display:inline;
+}
+#flipbook-wrapper {
+    overflow: hidden;
+    padding: 50px 0;
+    display: none;
+}
+/*height:600px;width:708px*/
+
+
+#flipbook-wrapper .flipbook-audio-control{
+    display: none;
+}
+
+
+/*********** turn responsive******************/
+#flipbook {
+    margin: 0;
+    height: 100%;
+    z-index: 5;
+    -webkit-transition:margin-left 0.2s ease-in-out;
+  -moz-transition:margin-left 0.2s ease-in-out;
+  -o-transition:margin-left 0.2s ease-in-out;
+  -ms-transition:margin-left 0.2s ease-in-out;
+  transition:margin-left 0.2s ease-in-out;
+}
+
+#flipbook.hide-overflow {
+    overflow: hidden;
+}
+
+/* helpers */
+
+.t {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.template-flipbook .t{
+    width: 99%;    
+}
+
+
+.tc {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.rel {
+    position: relative;
+}
+
+/* book */
+
+.book {
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.template-flipbook .book{
+    width: 99%;    
+}
+
+.book .page {
+    height: 100%;
+}
+
+.book .page img {
+    max-width: 100%;
+    height: 100%;
+}
+
+/********begin Wordpress fixes**********/
+#main-column .book .page {
+    border: none;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+
+#main-column .book img{
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+/********end Wordpress fixes**********/

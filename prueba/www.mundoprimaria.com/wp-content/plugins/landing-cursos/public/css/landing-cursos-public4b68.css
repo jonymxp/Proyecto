@@ -1,0 +1,360 @@
+.page-template-template-landing-cursos .btn-social:hover,
+.page-template-template-landing-cursos-v2 .btn-social:hover{
+    color: #fff;
+}
+.page-template-template-landing-cursos .green-text,
+.page-template-template-landing-cursos-v2 .green-text{
+    color: #31bd83;
+}
+.page-template-template-landing-cursos .uppercase-text,
+.page-template-template-landing-cursos-v2 .uppercase-text{
+    text-transform: uppercase;
+}
+
+.page-template-template-landing-cursos h1,
+.page-template-template-landing-cursos-v2 h1{
+    text-align: center;
+}
+.page-template-template-landing-cursos .row-features ,
+.page-template-template-landing-cursos-v2 .row-features {
+    margin: 0 ;
+    margin-top: 15px;
+}
+.page-template-template-landing-cursos .row-features .col-feature,
+.page-template-template-landing-cursos-v2 .row-features .col-feature{
+    padding: 0 ;
+    margin-bottom: 15px;
+}
+.page-template-template-landing-cursos .row-features .feature,
+.page-template-template-landing-cursos-v2 .row-features .feature{
+    padding: 20px 0 0 0;
+}
+.page-template-template-landing-cursos .row-features .feature-icon-wrapper,
+.page-template-template-landing-cursos-v2 .row-features .feature-icon-wrapper{
+    min-height: 150px;
+}
+.page-template-template-landing-cursos .row-features ul,
+.page-template-template-landing-cursos-v2 .row-features ul{
+    margin:  0 ;
+    padding: 0 ;
+    padding-left: 0px ;
+}
+.page-template-template-landing-cursos .row-features ul li,
+.page-template-template-landing-cursos-v2 .row-features ul li{
+    list-style-type: none;
+
+}
+.page-template-template-landing-cursos .row-features ul li:before,     
+.page-template-template-landing-cursos-v2 .row-features ul li:before{     
+    padding-right: 5px;
+    content: "■"
+}
+.page-template-template-landing-cursos .row-features .feature p,    
+.page-template-template-landing-cursos-v2 .row-features .feature p{    
+    color: #fff;
+    padding: 5px 0;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.page-template-template-landing-cursos .title-available-courses,
+.page-template-template-landing-cursos-v2 .title-available-courses{
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    text-align: center;
+    padding: 8px 0;
+}
+.page-template-template-landing-cursos .featured-course ,
+.page-template-template-landing-cursos-v2 .featured-course {
+    background-color: #eeeeee;
+}
+.page-template-template-landing-cursos .featured-course h4,
+.page-template-template-landing-cursos-v2 .featured-course h4{
+    margin-top: 10px;
+}
+.page-template-template-landing-cursos .featured-course img.media-object,
+.page-template-template-landing-cursos-v2 .featured-course img.media-object{
+    min-width: 306px;
+
+}
+.page-template-template-landing-cursos .featured-course .media-body,
+.page-template-template-landing-cursos-v2 .featured-course .media-body{
+    position: relative;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.page-template-template-landing-cursos .featured-course .featured-course-description,
+.page-template-template-landing-cursos-v2 .featured-course .featured-course-description{
+    text-align: justify;
+}
+.page-template-template-landing-cursos .featured-course .featured-course-media-footer,
+.page-template-template-landing-cursos-v2 .featured-course .featured-course-media-footer{
+    position: absolute; 
+    bottom: 0px; 
+    width:100%; 
+    padding-right: 30px;
+
+}
+.page-template-template-landing-cursos .featured-course .featured-course-media-footer-data-container,
+.page-template-template-landing-cursos-v2 .featured-course .featured-course-media-footer-data-container{
+    height: 30px; 
+    line-height: 30px;
+    float: left;
+}
+.page-template-template-landing-cursos .featured-course .featured-course-media-footer-data,
+.page-template-template-landing-cursos-v2 .featured-course .featured-course-media-footer-data{
+    vertical-align: middle;
+    display: inline-block;
+}
+.page-template-template-landing-cursos .row-thumbnail-courses,
+.page-template-template-landing-cursos-v2 .row-thumbnail-courses{
+    margin-top: 20px;
+}
+.page-template-template-landing-cursos .other-course-icon-wrapper,
+.page-template-template-landing-cursos-v2 .other-course-icon-wrapper{
+    min-height: 200px;
+}
+.page-template-template-landing-cursos .thumbnail-course,
+.page-template-template-landing-cursos-v2 .thumbnail-course{
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    padding: 0;
+    border: none;
+    border-radius: 0px;
+    background-color: #eeeeee;
+    margin-bottom: 0px;
+}
+.page-template-template-landing-cursos .thumbnail-course-view-course,
+.page-template-template-landing-cursos-v2 .thumbnail-course-view-course{
+    margin-bottom: 20px;
+    background-color: #48c28e;
+    padding: 10px 0; 
+    text-align: center;
+}
+.page-template-template-landing-cursos .thumbnail-course-view-course a:hover,
+.page-template-template-landing-cursos-v2 .thumbnail-course-view-course a:hover{
+    text-decoration: none;
+}
+.page-template-template-landing-cursos .thumbnail-course-view-course a,
+.page-template-template-landing-cursos-v2 .thumbnail-course-view-course a{
+    color:#fff; 
+    font-weight: bold; 
+    font-size: 1.2em;
+    display: block;
+    
+}
+
+/* carousel */
+.page-template-template-landing-cursos .quote-carousel, 
+.page-template-template-landing-cursos-v2 .quote-carousel 
+{
+    padding: 0 10px 30px 10px;
+    margin-top: 30px;
+}
+
+/* Control buttons  */
+.page-template-template-landing-cursos .quote-carousel .carousel-control,
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-control
+{
+    background: none;
+    color: #222;
+    font-size: 2.3em;
+    text-shadow: none;
+    margin-top: 50px;
+}
+/* Previous button  */
+.page-template-template-landing-cursos .quote-carousel .carousel-control.left,
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-control.left
+{
+    left: -40px;
+}
+/* Next button  */
+.page-template-template-landing-cursos .quote-carousel .carousel-control.right, 
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-control.right 
+{
+    right: -40px !important;
+}
+/* Changes the position of the indicators */
+.page-template-template-landing-cursos .quote-carousel .carousel-indicators, 
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators 
+{
+    right: 50%;
+    top: auto;
+    bottom: 0px;
+    margin-right: -19px;
+}
+/* Changes the color of the indicators */
+.page-template-template-landing-cursos .quote-carousel .carousel-indicators li,
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators li 
+{
+    background: #c0c0c0;
+}
+.page-template-template-landing-cursos .quote-carousel .carousel-indicators .active,
+.page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators .active 
+{
+    background: #333333;
+}
+.page-template-template-landing-cursos .quote-carousel img,
+.page-template-template-landing-cursos-v2 .quote-carousel img
+{
+    width: 250px;
+    height: 100px;
+    margin-top: 20px;
+}
+/* End carousel */
+
+.item blockquote {
+    border-left: none; 
+    margin: 0;
+}
+
+.item blockquote img {
+    margin-bottom: 10px;
+}
+
+
+/*carousel testimonials*/
+
+/*#testimonial-carousel-wrapper .blockquote .p{
+   padding: 0 10px;
+}*/
+#testimonial-carousel-wrapper .item blockquote div:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+#testimonial-carousel-wrapper .item blockquote div:after {
+    content: "\f10e";
+    font-family: 'Fontawesome';
+    /*float: right;*/
+    
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin-left: 10px;
+    
+}
+#testimonial-carousel-wrapper blockquote {
+background-color: #525252;
+color: #fff;
+padding: 10px;
+min-height: 100px;
+}
+ #teachers-carousel-wrapper h5 {
+    font-weight: bold;
+}
+
+#teachers-carousel-wrapper .carousel-item-image {
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+#teachers-carousel-wrapper .carousel-item-description {
+    padding-left: 50px;
+    min-height: 120px
+}
+/*honeycomb field*/
+#landing-cursos-name-field{
+    display: none;
+}
+#landing-cursos-subscription-form label a{
+    color: #fff;
+}
+
+#landing-social-buttons-wrapper .btn-social{
+    margin-top: 18px !important;
+}
+#landing-inputs-wrapper {
+    padding: 15px 0;
+}
+#landing-inputs-wrapper .form-group {
+    width: 90%;
+    margin: 0 auto;
+}
+#landing-inputs-wrapper div.form-group{
+    margin-bottom: 10px;
+}
+#landing-inputs-wrapper .form-group label{
+    padding-left: 15px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#landing-btn-form-wrapper {
+    background-color: #48c28e; 
+    padding: 10px 0;
+    text-align: center;
+}
+#landing-btn-form-wrapper a{
+    font-size: 1.2em;
+    color: #274550;
+    display: block;
+    
+}
+#landing-btn-form-wrapper a:hover{
+    text-decoration: none;
+}
+
+.bottom-positioned{
+    position: absolute;
+    bottom: 50px;
+}
+/**
+  MEDIA QUERIES
+*/
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .page-template-template-landing-cursos .quote-carousel,
+    .page-template-template-landing-cursos-v2 .quote-carousel{
+        margin-bottom: 0;
+        padding: 0 40px 30px 40px;
+    }
+}
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) { 
+
+    /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
+
+    .page-template-template-landing-cursos .quote-carousel .carousel-indicators,
+    .page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators {
+        bottom: -20px !important;  
+    }
+    .page-template-template-landing-cursos .quote-carousel .carousel-indicators li,
+    .page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators li {
+        display: inline-block;
+        margin: 0px 5px;
+        width: 15px;
+        height: 15px;
+    }
+    .page-template-template-landing-cursos .quote-carousel .carousel-indicators li.active,
+    .page-template-template-landing-cursos-v2 .quote-carousel .carousel-indicators li.active {
+        margin: 0px 5px;
+        width: 20px;
+        height: 20px;
+    }
+    #teachers-carousel-wrapper p, #teachers-carousel-wrapper h5 {
+        text-align: center;
+    }
+    /* Control buttons  */
+    .page-template-template-landing-cursos .quote-carousel .carousel-control,
+    .page-template-template-landing-cursos-v2 .quote-carousel .carousel-control{
+
+        margin-top:90px;
+    }
+    #teachers-carousel-wrapper .carousel-item-description{
+        padding-left: 10px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 991px) { 
+    .page-template-template-landing-cursos .featured-course .featured-course-media-footer,
+    .page-template-template-landing-cursos-v2 .featured-course .featured-course-media-footer{
+        position: static;
+    }
+}
