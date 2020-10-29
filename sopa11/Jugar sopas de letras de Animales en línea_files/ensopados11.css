@@ -1,0 +1,1204 @@
+/* Traidas desde sopa.inc.php */
+
+#sopa {
+	text-align:center;
+	padding: 0px 20px 20px 20px;
+}
+#sopa h1 {
+	color: #FF6600;
+	font-size: 32px;
+	margin: 10px 0px 30px 0px;
+}
+
+#sopa .botImp {
+	background-color: #999;
+	border-radius: 5px;
+	font-size: 10px;
+	padding: 4px 24px 4px 10px;
+	vertical-align: middle;
+	color: #fff;
+	text-decoration: none;
+	font-weight: normal;
+	background: #999 url(../g/ICOimpCh.gif) no-repeat right;
+}
+
+#verRespuesta { width: 100%;color: #fff; background-color: #FF6600; text-align:center; padding: 10px; margin-top: 10px}
+
+#menuFin { float: none; width: 260px;padding: 0px;display: none;	background-color: #fff;}
+#menuFin form { margin: 0px; padding: 0px}
+#menuFin h1 { width:100%; background: none; color: #000; font-size: 24px; margin: 0px 0px 30px 0px}
+#menuFin .tiempo2 { font-size: 20px;display: block; background-color: #999; color: #fff; text-align: center; padding: 4px; margin: 0px 0px 20px 0px; }
+#menuFin .botFin { 
+width:100%; margin: 0px 0px 20px 0px; font-size: 18px; font-weight:normal; border: 0px;
+ line-height: auto; background-color: #090; color: #fff; padding: 10px;
+ text-decoration: none; border-radius: 10px;cursor:pointer;
+ text-shadow: 0px 1px 2px #000;
+ }
+.fonNar {
+	background-color: #FF6600 !important;
+	background-image: url(../g/ICObackBot.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 30px !important;
+}
+.fonVer {background-color: #090 !important}
+
+.menuTemas h2 { font-size: 16px; margin: 0px; padding: 0px 0px 10px 0px; text-align: left }
+.menuTemas { width: 480px; background-color: #fff; margin: 20px auto 20px auto;	padding: 10px;}
+
+.etiqueta { font-size: 20px; }
+.botEnla { display: block; padding: 10px 5px;font-size: 18px; margin: 20px auto 0px auto; width: calc(100% - 10px); background-color: #090; border-radius: 10px; color: #FFF; text-decoration: none; border: 0px;
+text-shadow: 0px 1px 2px #000;
+}
+.botEnlaG { display: block; padding: 10px 5px 15px 5px;font-size: 22px; margin: 30px auto 0px auto; width: calc(100% - 10px); background-color: #F60 !important; border-radius: 5px; color: #FFF; text-decoration: none; border: 0px;}
+.botEnlaG em { display: block; font-size: 30px; font-style: normal; }
+.botSub { display: block; padding: 10px;font-size: 18px; margin: 30px auto 0px auto; width: 100%; background-color: #090 !important; border-radius: 5px; color: #FFF; text-decoration: none; border: 0px;}
+
+#sopaPalabrasSL { float: right;top: 0px;right: 0px;width: 290px;padding: 0px 0px 20px 10px;}
+#sopaPalabrasSL h2 {margin: 0px;padding: 0px 0px 10px 0px;font-size: 20px;}
+#sopaPalabrasSL .bot { font-size: 14px; margin: 20px auto 20px auto; letter-spacing: .1em; border: 0px; line-height: auto; background-color: #070 !important; color: #fff;			display: block; width: 80%; padding: 0px; text-decoration: none; border-radius: 5px; max-width: none; padding: 10px; }
+#sopaPalabrasSL form { margin: 0px; padding: 0px}
+#tiempoSL { font-size: 16px;background-color: #999; color: #fff; text-align: center; padding: 4px; margin: 0px 0px 6px 0px; }
+#menuRes { 	display:inline-block; margin:0px; padding: 0px;}
+
+.pagina {
+	color: #FF6600;
+	font-style: normal;
+	font-size: 12px;
+}
+
+.pagina a {
+	color: #CC6600;
+	font-style: normal;
+	font-size: 11px;
+}
+
+/* Fin traidas */
+
+body {
+	background-image: url(../graficos/fondoSopa.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+#contenedor {
+	background-color: #FFF;
+	margin: auto;
+	width: 860px;
+	text-align: center;
+}
+
+.pie {
+	font-size: 12px;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	font-size: 9px;
+	color: #aaaaaa;
+	line-height: auto;
+	margin: 0px 0px 20px 0px;
+}
+
+h1 img {
+	margin-top: 5px;
+}
+.BusquedasSecuencias {
+	background-color: #FFE4BF;
+	padding: 5px 20px 5px 20px;
+	width: 80%;
+	margin: 20px auto 20px auto;
+	border-top: 1px solid #FFC980;
+	border-bottom: 1px solid #FFC980;
+	border-top-color: #FFC980;
+	text-align: left;
+	clear: both;
+}
+.BusquedasSecuencias li {
+  margin: 12px 0px 10px 0px;
+  font-size: 12px;
+}
+	
+.BusquedasSecuencias h4 {
+	font-size: 16px;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	background: none;
+}
+/* Inicio de estilos propios */
+.verde { background-color: #090 !important }
+.titPrin { 
+	color: #FF6600;
+	font-size: 32px;
+	margin: 0px 0px 30px 0px !important;
+}
+#cargando {
+	margin: 0px auto 30px;
+	width: 520px;
+	padding: 40px 0px 40px 0px;
+	border-radius: 10px;
+	background: rgba(255,204,0,1);
+	border: 10px solid #fc0;
+	font-size: 26px;
+	font-weight: bold;
+}
+#cargando p {
+	margin: 0px 0px 30px 0px;
+}
+#menuJuego {
+	position: relative;
+	margin: 0px auto 0px;
+	width: 520px;
+	/*min-height: 495px;*/
+	min-height: 585px;
+	border-radius: 10px;
+background: rgba(255,204,0,1);
+background: -moz-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,204,0,1)), color-stop(75%, rgba(247,229,113,1)), color-stop(100%, rgba(255,204,0,1)));
+background: -webkit-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+background: linear-gradient(135deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#ffcc00', GradientType=1 );
+	border: 10px solid #fc0;
+	/*visibility: hidden;*/
+	display:none;
+}
+
+#menuJuego h1 { width:95%; background: none; color: #000; margin: 0px auto 0px auto; padding: 10px 0px 0px 0px }
+#menuJuego .bot, #menuRes .bot2 { text-shadow: 0px 1px 2px #000; font-size: 24px; margin: 40px auto 20px auto; letter-spacing: .1em; border: 0px; line-height: auto; background-color: #FF6600; color: #fff;			display: block; width: 80%; padding: 0px; text-decoration: none; border-radius: 5px; max-width: none; padding: 10px; cursor:pointer; font-weight: bold}
+#menuJuego .bot2 em { font-size: 16px; margin: 0px auto 8px auto; font-style:normal; display: block; letter-spacing:normal}
+#menuJuego .bot2 { margin: 40px auto 20px auto !important }
+#menuJuego label { font-size: 17px; font-weight: bold; margin:14px auto 3px auto;  padding: 0px; width: 80%; display: block; text-align: left }
+#menuJuego label em { color: #060; font-style:normal; font-size: 14px; font-weight: bold; margin:0px auto 3px auto;  padding: 0px; display: block; text-align: left }
+#menuJuego .sele {font-size: 19px; margin: 0px auto 0px auto; border: 0px; line-height: 40px;height: 40px; background-color: #090; color: #fff; display: block; width: 80%; padding: 0px 0px 0px 10px; text-decoration: none; border-radius: 5px;}
+#menuJuego .campo {font-size: 19px; margin: 0px auto 0px auto; border: 0px; line-height: auto; background-color: #FFF; border: 2px solid #090; color: #000; display: block; width: calc(80% - 24px); padding: 10px 10px 10px 10px; text-decoration: none; border-radius: 5px;}
+#menuJuego h2 { width:95%; background: none; color: #000; margin: 0px auto 0px auto; padding: 30px 0px 30px 0px; font-size: 30px }
+#menuJuego h3 { width:95%; background: none; color: #000; margin: 0px auto 0px auto; padding: 30px 0px 20px 0px; font-size: 24px }
+.codSop {
+	font-weight: bold; text-align: center;
+	font-size: 40px; margin: 20px auto 20px auto; border: 0px; line-height: 60px;height: 60px; background-color: #fff; color: #000; display: block; width: 120px; padding: 0px; text-decoration: none; border-radius: 5px;
+	text-shadow: none !important
+}
+#ERRcod {
+	font-size: 18px;
+	color: #c00;
+}
+.enlaSopa {
+	font-weight: normal; text-align: center;
+	font-size: 16px; margin: 10px auto 20px auto;
+	border: 0px; line-height: 40px;height: 40px; background-color: #fff; color: #000; display: block;
+	width: 90%; padding: 0px; text-decoration: none; border-radius: 5px;
+	text-shadow: none !important;
+	user-select: all !important ;
+	-ms-user-select: all !important;
+	-moz-user-select: all !important; 
+	-khtml-user-select: all !important; 
+	-webkit-user-select: all !important; 
+	-o-user-select: all !important; 
+	cursor:text;
+}
+
+.botVol { font-size: 14px; margin: 20px 10% 20px 10%; border: 0px; 
+background: url(../g/ICOreturn.gif) no-repeat;
+background-color: #888; color: #fff;
+display: block; width: 150px; height: 37px; line-height: 37px; padding: 0px 0px 0px 32px;
+text-decoration: none; border-radius: 5px; max-width: none; cursor:pointer;
+text-align: center; text-shadow: 0px 1px 2px #000;}
+
+.botVolFijo {
+	position: absolute; bottom: 10px;
+}
+
+#FORMensopados {
+	position: relative;
+	width: 100%;
+	height: 575px;
+}
+#FORMensopados .etiqueta { font-size: 17px; height: 35px; overflow:hidden; font-weight: bold; margin: 20px 0px 0px 5%; width: 33%; display: block; text-align: left; float: left }
+#FORMensopados .etiqueta  em { color: #F60; font-style:normal; font-size: 10px; font-weight: bold; margin:0px auto 3px auto;  padding: 0px; display: block; text-align: left }
+#FORMensopados h3 { padding: 15px 0px 4px; font-size: 17px; font-weight: bold; margin: 0px 0px 0px 10%; width: 80%; display: block; text-align: left; float: none; clear: both }
+
+#FORMensopados input {
+	font-size: 24px; height: 35px; line-height: 30px; font-weight: bold; padding: 0px;
+	margin: 20px 0px 0px 0px;  padding: 0px; width: 40%; display: block; text-align: left; float:left;
+	border: 3px solid #777;
+}
+
+.BOTg {
+	width: 80%;
+	margin: 40px auto 40px auto;
+	height: 80px;
+	line-height: 80px;
+	background-color: #F60;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	font-size: 28px;
+	text-decoration: none;
+	cursor: pointer;
+	text-shadow: 0px 1px 2px #000;
+	font-weight: bold;
+}
+
+
+#BOTjugar {
+	position: absolute;
+	bottom: 110px;
+	left: 0px;
+	width: 80%;
+	margin: 0px 10% 0px 10%;
+	height: 80px;
+	line-height: 80px;
+	background-color: #F60;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	font-size: 28px;
+	text-decoration: none;
+	cursor: pointer;
+	text-shadow: 0px 1px 2px #000;
+	font-weight: bold;
+}
+
+#BOTjugar:active {
+	background-color: #d40;
+}
+
+#BOTjugar_con_FB{
+	position: absolute;
+	bottom: 80px;
+	left: 0px;
+	width: 80%;
+	margin: 0px 10% 0px 10%;
+	height: 40px;
+	line-height: 40px;
+	background-color: #F60;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	font-size: 18px;
+	text-decoration: none;
+	cursor: pointer;
+	text-shadow: 0px 1px 2px #000;
+}
+
+ .BOTtipo, .BOTtipo2 {
+/*	width: 126px; padding: 6px 0px 0px 0px; ; margin: 20px 0px 0px 4%; background-image: url(../g/fonTilde.png); */
+	width: 168px; padding: 6px 10px 0px 10px; ; margin: 0px 0px 15px 40px; background-image: url(../g/fonTilde2.png);
+	height: 110px; overflow: hidden; float: left;
+	
+	background-color: #888;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #fff;
+	
+	background-repeat: no-repeat;
+	background-position: -188px 100%;
+	cursor: pointer;
+	
+	 font-size: 24px
+ }
+.BOTtipo2 {
+	height: 100px !important;
+}
+.BOTtipoSel {
+  /* background-position: 0px 80px !important; */
+  background-position: 0px 100% !important;
+  
+	background-color: #090 !important;
+	-webkit-box-shadow: 3px 3px 1px 0px #050;
+	-moz-box-shadow: 3px 3px 1px 0px #050;
+	box-shadow: 3px 3px 1px 0px #050;
+	cursor: default; 
+  }
+ #BQcontric {
+	display:none;
+ }
+#tapa {
+	/*display: block;*/
+	display: none;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 520px;
+	height: 585px;
+	background-color: rgba(50, 50, 50, 0.8);
+	z-index: 1000;
+	color:#fff;
+	border: 0px;
+	border-radius: 5px;
+  }
+  
+  #POP {
+	display: table;
+	display: none;
+	position: absolute;
+	top: 130px;
+	left: 120px;
+	width: 260px;
+	height: 160px;
+	background-color: #fff;
+	z-index: 2000;
+	color:#000;
+	border: 6px solid #000;
+	border-radius: 20px;
+  }
+		
+#POP p {
+	display: table-cell;
+	vertical-align: middle;
+	padding: 15px;
+	font-size: 20px;
+}
+  
+  .BOTtipo em, .BOTtipo2 em {
+	color: #fc0; font-style:normal; font-size: 12px; font-weight: normal; margin:3px auto 3px auto;  padding: 0px; display: block; text-align: center
+  }
+ .BOT1 {
+	margin-left: 10% !important;
+}
+.o {
+	position: absolute;
+	bottom: 40px;
+	left: 0px;
+	width: 80%;
+	margin: 0px 10% 0px 10%;
+	height: 50px;
+	font-weight: bold;
+}
+#log {
+	width:600px; 
+	height:300px; 
+	border:1px solid #7F9DB9; 
+	overflow:auto;
+}
+#msg {
+	width:400px;
+}
+.juego {
+	background: rgba(255,204,0,1);
+	background: -moz-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,204,0,1)), color-stop(75%, rgba(247,229,113,1)), color-stop(100%, rgba(255,204,0,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: linear-gradient(135deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#ffcc00', GradientType=1 );
+	/*border: 10px solid #fc0;*/
+	border-radius: 10px;
+	width: 800px;
+	height: 446px;
+	margin: 0px auto 40px auto;
+	padding: 10px;
+	text-align: left;
+}
+#papel {
+	position: relative;
+	width: 1px;
+	height: 1px;
+	background-color: #fff;
+	border: 3px #999 solid;
+	display: none;
+	margin: 0px 0px 0px 0px;
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none; 
+	-khtml-user-select: none; 
+	-webkit-user-select: none; 
+	-o-user-select: none; 
+	z-index: 0;
+	cursor:crosshair;
+}
+
+#sopaPalabras {
+	position: relative;
+	float: right;
+	width: 340px;
+	height: 446px;
+	padding: 0px 0px 0px 0px;
+	margin-right: 0px;
+	text-align: center;
+	/*background-color: green;*/
+}
+.cuadro {
+	position: absolute;
+	text-align: center;
+}
+.bor1 {
+	border-bottom: 1px #eee solid;
+	border-right: 1px #eee solid;
+}
+.borX {
+	border-bottom: 1px #eee solid;
+}
+.borY {
+	border-right: 1px #eee solid;
+}
+#intPapel {
+	width: 100%;
+	height: 100%;
+}
+
+#bloquePalabras h2 {font-size:14px !important; color: #000; margin: 5px 0px 5px 0px !important; padding: 0px}
+#bloquePalabras h2 em {font-size:16px !important; color: #F60; font-style:normal}
+
+.PAPm1 {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background-color: #999;
+	display: table;
+}
+
+.PAPm1 p, .PAPm2 p {
+	display: table-cell;
+	vertical-align: middle;
+	padding: 10px;
+	text-shadow: 0px 2px 2px #000;
+	color: #fff;
+	font-size: 35px;
+	font-weight: bold;
+}
+.ch p  {
+	font-size: 18px !important;
+}
+.PAPm1 p img, .PAPm2 p img {
+	margin: 0px 0px 20px 0px;
+}
+.PAPm2 {
+	width: 100%;
+	height: 50%;
+	font-size: 30px;
+	text-align: center;
+	background-color: #999;
+	display: table;
+}
+
+.botPapel{
+	display: block;
+	text-align: center;
+	margin: 20px auto 0px auto;
+	padding: 0px;
+	width: 180px;
+	height: 70px;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 0px 10px 0px 10px;
+	background-color: #090;
+	text-shadow: 0px 1px 2px #000;
+	line-height: 70px;
+}
+
+.PAPm1 p em, .PAPm2 p em {
+	font-style:normal;
+	color: #fc0;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.PAPm1 p b, .PAPm2 p b {
+	font-style:normal;
+	color: #fc0;
+	font-weight: bold;
+	font-size: 26px;
+}
+
+#reloj {
+	font-size:160px;
+	padding: 20px 0px 0px 0px;
+	font-family: Sans-Serif;
+}
+.pal1 {
+	font-size: 17px; display: inline-block; margin: 0px 5px 5px 0px; padding: 6px 8px 6px 8px; background-color: #eee;font-family: Monospace; border-bottom: 2px solid #aaa;
+}
+.palOK {
+	background-color: #0f0; color: #080;
+}
+
+.palNO {
+	border-color: #f00;
+}
+.TABvs {
+	background-color: #e90;
+	border-radius: 12px;
+	font-size: 12px;
+	padding: 6px;
+	color: #fff;
+}
+.TABpal {
+	font-size: 12px;
+}
+.TABnick {
+	width: 120px;
+	max-width: 120px;
+	overflow: hidden;
+	font-size: 16px;
+	font-family: Sans-Serif;
+	font-weight: bold;
+}
+.TAB {
+	margin: 6px auto 0px auto;
+	width: 330px;
+}
+.cantJ em {
+	background-color: #ffff80;
+	padding: 3px 4px 3px 4px;
+	font-style:normal;
+	border-radius: 5px;
+	font-weight: normal;
+	font-size: 14px;
+	-webkit-box-shadow: 1px 1px 1px 1px #830 inset;
+	-moz-box-shadow: 1px 1px 1px 1px #830 inset;
+	box-shadow: 1px 1px 1px 1px #830 inset;
+}
+.cantJ {
+	width: 10px;
+}
+.TABcontPal {
+	text-shadow: 0px 2px 2px #000;
+	color: #fff;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: verdana, Sans-Serif;
+}
+#contaPal1 img { float: left; vertical-align: middle }
+#contaPal2 img { float: right; vertical-align: middle }
+#TABbotonera {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 70px;
+	text-align: center;
+}
+.botbot {
+	display: block;
+	cursor:pointer;
+	height: 40px;
+	line-height: 40px;
+	background-color: #777;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 18px;
+	margin: 30px 10px 0px 10px;
+	text-decoration: none;
+	text-shadow: 0px 1px 2px #000;
+}
+.botbot p { margin: 0px; padding: 0px; }
+.alto70 {height: 70px !important; line-height: 70px !important; margin: 0px 10px 0px 10px !important; }
+.naranja { background-color: #F60 !important; }
+.gris { background-color: #555 !important; }
+#BOTotraSopa p {
+	background-image: url(../g/ICObackBot.png);
+	background-repeat: no-repeat;
+	padding-left: 30px !important;
+}
+#BOTrevancha p {
+	background-image: url(../g/ICOrevBot.png);
+	background-repeat: no-repeat;
+	padding-left: 30px !important;
+}
+
+.botbot2{
+	display: table;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width: 150px;
+	height: 70px;
+}
+.botbot2 p {
+	display: table-cell;
+	vertical-align: middle;
+	width: 130px;
+	cursor:pointer;
+	height: 70px;
+	line-height: auto;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 18px;
+	margin: 0px;
+	text-decoration: none;
+	padding: 0px 10px 0px 10px;
+	background-color: #060;
+	text-shadow: 0px 1px 2px #000;
+}
+
+.botbot2 em {
+	display: table-cell;
+	vertical-align: middle;
+	width: 130px;
+	cursor: default;
+	height: 70px;
+	line-height: auto;
+	color: #000;
+	border-radius: 10px;
+	border: 1px solid #060;
+	font-size: 14px;
+	margin: 0px;
+	text-decoration: none;
+	padding: 0px 10px 0px 10px;
+	font-style:normal;
+}
+
+.botbot2:nth-child(2) {
+	margin-left: 30px !important;
+}
+.botbot2:nth-child(2) p {
+	background-color: #F60 !important;
+}
+
+#bloqueAyuda {
+	display: none;
+	position: absolute;
+	bottom: 80px;
+	left: 0px;
+	width: 330px;
+	height: 60px;
+	z-index: 100;
+}
+
+#bloqueAyuda .botAyuda{
+	display: table;
+	width: 115px;
+	float: left;
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none; 
+	-khtml-user-select: none; 
+	-webkit-user-select: none; 
+	-o-user-select: none; 
+
+}
+
+
+#bloqueAyuda p {
+	display: table-cell;
+	height: 60px;
+	vertical-align: middle;
+	border-radius: 10px;
+	font-family: verdana, Sans-Serif;
+	font-weight: bold;
+	font-size: 14px;
+	z-index: 100;
+	background-image: url(../g/ICOhelpBot.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding: 0px 10px 0px 35px;
+}
+
+#BOTayuda1 {
+	margin: 0px 0px 0px 10px;
+}
+
+#bloqueAyuda p  img {
+	vertical-align: middle;
+}
+#bloqueAyuda p  b {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ccc;
+	text-shadow: none;
+}
+#bloqueAyuda p  em {
+	font-style:normal;
+	font-size: 10px;
+	font-weight: normal;
+	color: #ccc;
+}
+
+#bloqueAyuda .on p {
+	text-shadow: 0px 1px 1px #000;
+	background-color: #060;
+	color: #f60;
+	color: #fff;
+	cursor: pointer;
+}
+#bloqueAyuda .on p  em {
+	text-shadow: none;
+}
+#bloqueAyuda .off p  em {
+	text-shadow: 0px 0px;
+}
+#bloqueAyuda .off p {
+	text-shadow: none;
+	background-color: #999;
+	color: #ccc;
+	cursor: auto;
+}
+
+#BQcantCuch {
+	width: 50px;
+	height: 34px;
+	margin: 8px 15px 0px 15px;
+	float: left;
+	background-color: #e90;
+	border-radius: 34px;
+	font-size: 11px;
+	padding: 3px;
+	color: #fff;
+	overflow: hidden;
+	text-align: center;
+}
+#BQcantCuch b {
+	display:block;
+	font-size:12px;
+}
+#bloqueMensajes {
+	display: table;
+	position: absolute;
+	bottom: 80px;
+	left: 0px;
+	width: 330px;
+	height: 80px;
+	font-family: verdana, Sans-Serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #f60;
+	opacity: 0.2;
+}
+
+#bloqueMensajes em {
+	color: #000;
+	font-style:normal;
+	font-size: 14px;
+	text-shadow: 0px 1px 1px #999;
+}
+#bloqueMensajes em b{
+	color: #f60;
+	font-style:normal;
+	font-size: 20px;
+	text-shadow: 0px 1px 1px #000;
+}
+#bloqueMensajes p {
+	display: table-cell;
+	vertical-align: middle;
+	text-shadow: 0px 2px 2px #000;
+}
+#bloqueMensajes img {
+	float: right;
+	border: 0px;
+}
+#tiempo {
+	background-color: #e90;
+	border-radius: 12px;
+	font-size: 14px;
+	padding: 3px;
+	color: #fff;
+	font-weight: bold;
+	font-family: verdana, Sans-Serif;
+}
+#sopaPalabras h2 {
+	font-size: 16px;
+	margin: 10px 0px 10px 0px;
+	padding: auto;
+}
+#paso1,#paso2,#paso3,#paso3b,#paso3c { display: none; }
+.NME{ margin-top: 0px !important;margin-bottom: 4px !important; padding: 0px !important}
+
+.BOTfbGen{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 80%;
+	margin: 0px 10% 0px 10%;
+	height: 40px;
+	line-height: 40px;
+	background-color: #3B5998;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+	font-size: 18px;
+	text-decoration: none;
+	cursor: pointer;
+	background-image: url(../g/fonFB.gif);
+	background-repeat: no-repeat;
+	text-shadow: 0px 1px 2px #000;
+}
+
+.BOTfbGen2, .BOTfbGen3 {
+	display: block;
+	width: 80%;
+	background-color: #3B5998;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+	font-size: 16px;
+	text-decoration: none;
+	cursor: pointer;
+	background-image: url(../g/fonFB2.gif);
+	background-repeat: no-repeat;
+	text-shadow: 0px 1px 2px #000;
+	padding: 5px 2% 5px 8%;
+}
+
+.BOTfbGen2 {	margin: 20px 5% 0px 5%;}
+.BOTfbGen3 {	margin: 0px 5% 0px 5%;}
+.BOTfbGenRel{
+	display: block;
+	width: 85%;
+	margin: 0px 5% 0px 5%;
+	height: 40px;
+	line-height: 40px;
+	background-color: #3B5998;
+	color: #fff;
+	text-align: right;
+	border-radius: 5px;
+	border: none;
+	font-size: 18px;
+	text-decoration: none;
+	cursor: pointer;
+	background-image: url(../g/fonFB.gif);
+	background-repeat: no-repeat;
+	text-shadow: 0px 1px 2px #000;
+	padding-right: 5%;
+}
+
+#BOTmenu{ cursor:pointer }
+#BOTayudaM{ cursor:pointer; margin-top: 16px; }
+#BQusuario {
+	height: 63px;
+}
+
+#BQusuario_FB {
+	-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
+	display: none;
+	overflow: hidden;
+	margin: 0px;
+	padding: 6px 10px 10px 10px;
+	width: 100%;
+	color: #fff;
+	background-color: #fc0;
+	height: 70px;
+	text-align: left;
+	border-bottom: 3px solid #f60;
+}
+#BQusuario_FB  p{
+	margin: 0px 20px 0px 10px;
+	padding: 0px;
+	width: 360px;
+	font-size: 18px;
+	text-shadow: 0px 1px 2px #000;
+	font-weight: bold;
+	float: left;
+	line-height: 25px;
+}
+#BQusuario_FB em {
+	display: block;
+	font-style: normal;
+	font-size: 13px;
+}
+#BQusuario_FB  img {
+	vertical-align:middle;
+}
+#BQusuario_FB  .foto {
+	float: left;
+	margin: 0px;
+	width: 50px;
+}
+
+#BQusuario_MENU {
+	display: none;
+	position: absolute;
+	padding: 20px 0px 20px 0px;
+	top: 66px;
+	left: 0px;
+	width: 520px;
+	/*height: 200px;*/
+	color: #fff;
+	background-color: #fc0;
+	z-index: 10000;
+	border-bottom: 3px solid #f60;
+	-webkit-box-shadow: 0px 5px 5px -2px #333;
+	-moz-box-shadow: 0px 5px 5px -2px #333;
+	box-shadow: 0px 5px 5px -2px #333;
+
+}
+#BQusuario_MENU a {
+	-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
+	display: block;
+	text-align: left;
+	color: #fff;
+	text-decoration: none;
+	margin: 14px 0px 14px 10%;
+	bacKground-color: #090;
+	padding: 10px;
+	width: 80%;
+	border-radius: 5px; 
+}
+
+.ventana {
+	margin: 0px auto 30px;
+	width: 720px;
+	border-radius: 10px;
+	background: rgba(255,204,0,1);
+	background: -moz-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,204,0,1)), color-stop(75%, rgba(247,229,113,1)), color-stop(100%, rgba(255,204,0,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	background: linear-gradient(135deg, rgba(255,204,0,1) 0%, rgba(247,229,113,1) 75%, rgba(255,204,0,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#ffcc00', GradientType=1 );
+	border: 10px solid #fc0;
+	text-align: center;
+}
+.ventana h2 {
+	font-size: 30px;
+	line-height: 50px;
+	height: 50px;
+}
+.ventana h2 img{
+	vertical-align: middle;
+}
+
+.ventana h3 {
+	font-size: 20px;
+	color: #c30;
+}
+.ventana .PAPm1 p {
+	padding: 30px 0px 30px 0px;
+}
+
+.ventana  table {
+	margin: auto;
+	font-size: 11px;
+	border-collapse: collapse;
+	border-spacing: 5px; 
+	width: 90%;
+}
+.ventana  thead {
+	border-bottom: 2px solid #fff;
+}
+.ventana  thead th{
+	padding:  0px 10px 10px 10px;
+	font-size: 14px;
+}
+.ventana table td  {
+	padding: 5px 10px 5px 10px;
+}
+.ventana table tr {
+	border-bottom: 1px solid #ffd;
+}
+.ventana td img {
+	width: 25px;
+}
+
+.ventana .thU {
+	font-size: 16px;
+}
+.ventana .thG {
+	background-color:  rgba(255,204,100,.5);
+}
+.ventana .thPt {
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0px 1px 2px #000;
+}
+.ventana .trRnk {
+	font-size: 28px;
+	font-weight: bold;
+	background-color: red;
+	text-shadow: 0px 1px 2px #000;
+	color: #fff;
+}
+.ventana .trRnk .thU{
+	font-size: 20px;
+}
+
+.ventana .tabRank {
+	margin: 20px auto 60px auto;
+}
+
+.ventana .trRnk3, .ventana .trRnk3 .thU {
+	font-size: 20px;
+	font-weight: bold;
+}
+.ventana .ayuda p {
+	font-size: 16px;
+	padding: 5px 20px 5px 20px;
+	text-align: left;
+}
+.ventana .ayuda h3 {
+	font-size: 20px;
+	text-align: left;
+	margin: 5px 20px 5px 20px;
+	padding: 10px 0px 10px 0px;
+	border-bottom: 2px solid #fff;
+}
+.botAyu {
+	display: inline-block;
+	cursor:pointer;
+	height: 40px;
+	line-height: 40px;
+	background-color: #777;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 16px;
+	text-decoration: none;
+	text-shadow: 0px 1px 2px #000;
+	padding: 0px 15px 0px 15px;
+	margin: 0px 10px 10px 10px;
+}
+
+.pag {
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+}
+.pag .botPag {
+	display: none;
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 18px;
+	margin: 20px 0px 20px 0px;
+	background-color: #777;
+	margin: 0px 10px 0px 10px;
+	cursor:pointer;
+}
+
+.botbot3 , .botbot4{
+	overflow: hidden;
+	display: block;
+	cursor:pointer;
+	height: 50px;
+	line-height: 50px;
+	background-color: #777;
+	color: #fff;
+	border-radius: 10px;
+	font-size: 18px;
+	text-decoration: none;
+	text-shadow: 0px 1px 2px #000;
+	background-image: url(../g/ICObackBot.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding: 0px 15px 0px 50px;
+	border: none;
+}
+
+.botbot3 {
+	margin: 0px;
+	float: right;
+}
+
+.botbot4 {
+	width: 70%;
+	max-width: 300px;
+	margin: 0px auto 20px auto;
+	float: none;
+	box-sizing: content-box;
+}
+
+.sinFondo {
+	background: none !important;
+}
+
+#BQavisoLogros {
+	/*display: none;*/
+	position: absolute;
+	width: 460px;
+	height: 525px;
+	top: 30px;
+	left:30px;
+	background-color: #090;
+	z-index: 2000;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#BQavisoLogros  h2 {
+	height: 50px;
+	line-height: 50px;
+	color: #fc0;
+}
+
+#BQavisoLogros h3 {
+	font-size: 24px;
+	color: #fff;
+	font-style: normal;
+	font-weight: bold;
+}
+
+#BQavisoLogros  .logLog {
+	vertical-align: middle;
+	float: left;
+	margin: 0px 0px 0px 20px;
+}
+#BQavisoLogros  #BTcerrarAvisoLogro {
+	vertical-align: middle;
+	float: right;
+	margin: 0px 20px 0px 0px;
+	cursor: pointer;
+}
+
+#BQavisoLogros  table {
+	margin: auto;
+	font-size: 14px;
+	border-collapse: collapse;
+	border-spacing: 5px; 
+	width: 100%;
+}
+#BQavisoLogros table td  {
+	padding: 15px 10px 15px 10px;
+}
+#BQavisoLogros table td  em {
+	font-size: 24px;
+	color: #fff;
+	font-style: normal;
+	font-weight: bold;
+}
+#BQavisoLogros table td  b {
+	font-size: 16px;
+	color: #fc0;
+}
+
+#BQavisoLogros table tr {
+	border-bottom: 1px solid #3a3;
+}
+#BQavisoLogros .thPt {
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0px 1px 2px #000;
+}
+
+#BQavisoLogros .listaLogros {
+	height: 310px;
+	overflow: auto;
+	margin: 0px auto 30px auto;
+	width: 90%;
+}
+
+#BTcompartir, #BTranking {
+	margin: auto;
+	width: 60%;
+	height: 50px;
+	line-height: 50px;
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+	cursor: pointer;
+	text-shadow: 0px 1px 2px #000;
+	border-radius: 5px;
+	font-weight: bold;
+}
+#BTranking {
+	background-color: #F60;	
+}
+#BTcompartir {
+	background-color: #3B5998;	
+}
+#BOTverLogros { cursor:pointer}
+.RScomp h3 {
+	font-size:16px;
+}
+
+.rs { margin: 20px 0px 0px 0px;}
+
